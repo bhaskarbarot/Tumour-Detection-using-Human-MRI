@@ -1,0 +1,2 @@
+source "/home/petpooja/Documents/other projects/brain_tumor_project/.venv/bin/activate"
+python "/home/petpooja/Documents/other projects/brain_tumor_project/st.py"
